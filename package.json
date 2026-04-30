@@ -1,6 +1,6 @@
 {
   "name": "@sudobility/genui_types",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Shared TypeScript type definitions for GenUI (IRenderable, ViewLayout, ThemeColor, etc.)",
   "type": "module",
   "main": "./dist/index.js",
